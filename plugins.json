@@ -24,7 +24,8 @@
 				"Editing"
 			],
 			"github": "https://github.com/mavoweb/plugins/markdown",
-			"author": "leaverou"
+			"author": "leaverou",
+			"repo": "MAVO-Markdown"
 		},
 		{
 			"name": "Yaml",
